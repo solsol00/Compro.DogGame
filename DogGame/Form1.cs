@@ -16,5 +16,10 @@ namespace DogGame
         {
             InitializeComponent();
         }
+
+        public void Test()
+        {
+            //test test
+        }
     }
 }
